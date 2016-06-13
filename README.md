@@ -1,6 +1,6 @@
 SharpSchool US Marketplace Map 2014
 
-[screenshot](https://raw.githubusercontent.com/syntaxlogofree/SharpSchoolUS2014/master/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/syntaxlogofree/SharpSchoolUS2014/master/screenshot.jpg)
 
 
 =================
